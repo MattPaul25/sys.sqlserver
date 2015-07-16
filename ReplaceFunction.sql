@@ -2,5 +2,5 @@
 use DailyOps
 
 UPDATE [DailyOps].[dbo].[DailyLog]
-SET Researcher = REPLACE(Researcher, 'jocelyn.yu@dowjones.com', 'Jocelyn Yu')
-WHERE Researcher = 'jocelyn.yu@dowjones.com'
+SET Team = REPLACE(Team, 'TBD', 'Secondary')
+WHERE Researcher = 'Mo Jalajel'

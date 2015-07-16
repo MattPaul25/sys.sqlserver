@@ -1,0 +1,1 @@
+Select * From UniversalTool.INFORMATION_SCHEMA.COLUMNS
